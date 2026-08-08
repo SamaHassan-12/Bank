@@ -74,6 +74,23 @@ The dataset contains loan-related information such as:
 - Start Date
 
 ---
+## Python Analysis
+
+The data cleaning and analysis process was performed using Python and Pandas.
+
+[View Python Analysis](bank (Project))
+
+---
+
+## Power BI Dashboard
+
+An interactive Power BI dashboard was created to visualize the key insights from the cleaned loan dataset.
+
+[View Power BI Dashboard](YOUR_POWER_BI_LINK)
+
+---
+
+##  Project Structure
 
 ## Project Structure
 
