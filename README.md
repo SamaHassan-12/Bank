@@ -84,7 +84,7 @@ The data cleaning and analysis process was performed using Python and Pandas.
 
 An interactive Power BI dashboard was created to visualize the key insights from the cleaned loan dataset.
 
-[View Power BI Dashboard](YOUR_POWER_BI_LINK)
+[View Power BI Dashboard](https://drive.google.com/drive/folders/1yiO_sQEJtGkeQfRul5j5V_Ksa0Hew5BF?usp=sharing)
 
 ---
 
