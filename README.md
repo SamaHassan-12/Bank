@@ -78,8 +78,6 @@ The dataset contains loan-related information such as:
 
 The data cleaning and analysis process was performed using Python and Pandas.
 
-[View Python Analysis](bank (Project))
-
 ---
 
 ## Power BI Dashboard
